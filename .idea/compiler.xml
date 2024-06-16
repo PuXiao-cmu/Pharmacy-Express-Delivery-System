@@ -15,7 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="sky-common" options="-parameters" />
+      <module name="sky-common" options="" />
       <module name="sky-pojo" options="-parameters" />
       <module name="sky-server" options="-parameters" />
     </option>
